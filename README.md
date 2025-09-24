@@ -60,11 +60,20 @@ Aqui registramos nosso progresso semanalmente. Cada entrada inclui atualizaçõe
   * **Decisões:**
       * Optamos pelos seguintes materiais, devido à familiaridade quanto disponibilidade no laboratório:
         * Microcontrolador: Arduino Uno
-        * Atuadores: 4x Micro Servomotores (modelos SG90 ou MG90S
+        * Atuadores: 4x Micro Servomotores (modelos SG90 ou MG90S)
         * Alimentação: 4x Bateria LiPo 2S (7.4V) ou 4x Pilhas AA recarregáveis
         * Infra: Suporte para 4 pilhas AA ou Conector JST/XT60 para a bateria LiPo
         * Conexões: Fios Jumper (macho-macho & macho-fêmea)
         * Estrutura: Chassi e pernas feitos através de impressão 3D
+       
+   ### Semana 2: (15/09/2025)
+
+**Foco da Semana:** Planejamento Inicial e Prototipagem
+
+  * **Desafios:**
+      * Criar o modelo 3d do Hexapod para imprimir e fazer a montagem
+  * **Decisões:**
+      * Optamos pelo uso de um modelo pronto de chassi para o Hexapod assim facilitando a criação
 
 ## 🚀 Como Contribuir
 
