@@ -75,6 +75,18 @@ Aqui registramos nosso progresso semanalmente. Cada entrada inclui atualizaçõe
   * **Decisões:**
       * Optamos pelo uso de um modelo pronto de chassi para o Hexapod assim facilitando a criação
 
+ ### Semana 3: (22/09/2025)
+
+**Foco da Semana:** Planejamento e Impressão do chassi
+
+  * **Desafios:**
+      * Adaptar o modelo que escolhemos para suprir os materias que faltam ou são diferentes
+      * Os novos materias seram adicionados na lista na proxima semana e atualizado aqui
+  *  **Decisões:**
+      * Foi decidido que iremos usar menos servos motores
+      * Não iremos usar o suporte para pilha e nem pilhas nessa versão do Hexapod
+
+   
 ## 🚀 Como Contribuir
 
 Somos um projeto de código e hardware abertos\! Se você deseja contribuir:
